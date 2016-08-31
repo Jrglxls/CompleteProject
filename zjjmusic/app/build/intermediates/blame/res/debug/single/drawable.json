@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\skin_img_item_background.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable\\skin_img_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_setting_stroke.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable\\menu_setting_stroke.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\volume_seekbar_thumb_selector.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable\\volume_seekbar_thumb_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_setting_selector_middle.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable\\menu_setting_selector_middle.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadowright.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable\\shadowright.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_music_btn.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable\\selector_music_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nc_previoussong.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable\\nc_previoussong.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nc_pause.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable\\nc_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\volume_seekbar_selector.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable\\volume_seekbar_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_pressed_blue_backround.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable\\button_pressed_blue_backround.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_setting_selector_top.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable\\menu_setting_selector_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gridview_item_selector.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable\\gridview_item_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nc_nextsong.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable\\nc_nextsong.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_hiden.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable\\keyboard_hiden.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sleep_btn_selector.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable\\sleep_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\playback_seekbar.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable\\playback_seekbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_setting_selector_bottom.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable\\menu_setting_selector_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\playback_seekbar_thumb.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable\\playback_seekbar_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_bkg_common.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable\\keyboard_bkg_common.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\playback_seekbar2.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable\\playback_seekbar2.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_setting_selector.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable\\menu_setting_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_backround_light.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable\\button_backround_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_backspace.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable\\keyboard_backspace.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_scan_btn.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable\\selector_scan_btn.xml"
+    }
+]
