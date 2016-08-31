@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\myProject\\YH2\\app\\build\\intermediates\\res\\merged\\release\\raw\\dead.wav",
+        "source": "E:\\myProject\\YH2\\app\\src\\main\\res\\raw\\dead.wav"
+    },
+    {
+        "merged": "E:\\myProject\\YH2\\app\\build\\intermediates\\res\\merged\\release\\raw\\clock.mp3",
+        "source": "E:\\myProject\\YH2\\app\\src\\main\\res\\raw\\clock.mp3"
+    },
+    {
+        "merged": "E:\\myProject\\YH2\\app\\build\\intermediates\\res\\merged\\release\\raw\\b.mid",
+        "source": "E:\\myProject\\YH2\\app\\src\\main\\res\\raw\\b.mid"
+    },
+    {
+        "merged": "E:\\myProject\\YH2\\app\\build\\intermediates\\res\\merged\\release\\raw\\bg.mid",
+        "source": "E:\\myProject\\YH2\\app\\src\\main\\res\\raw\\bg.mid"
+    },
+    {
+        "merged": "E:\\myProject\\YH2\\app\\build\\intermediates\\res\\merged\\release\\raw\\syu.mp3",
+        "source": "E:\\myProject\\YH2\\app\\src\\main\\res\\raw\\syu.mp3"
+    },
+    {
+        "merged": "E:\\myProject\\YH2\\app\\build\\intermediates\\res\\merged\\release\\raw\\a.mid",
+        "source": "E:\\myProject\\YH2\\app\\src\\main\\res\\raw\\a.mid"
+    },
+    {
+        "merged": "E:\\myProject\\YH2\\app\\build\\intermediates\\res\\merged\\release\\raw\\firework.mp3",
+        "source": "E:\\myProject\\YH2\\app\\src\\main\\res\\raw\\firework.mp3"
+    }
+]
