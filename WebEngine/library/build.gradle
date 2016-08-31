@@ -1,0 +1,55 @@
+apply plugin: 'com.android.library'
+apply plugin: 'maven'
+apply plugin: 'signing'
+
+android {
+    compileSdkVersion 'Google Inc.:Google APIs:23'
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 24
+        versionCode 12
+        versionName "0.5.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+signing {
+    required { has("release") && gradle.taskGraph.hasTask("uploadArchives") }
+    sign configurations.archives
+}
+
+uploadArchives {
+    configuration = configurations.archives
+    repositories.mavenDeployer {
+        beforeDeployment { MavenDeployment deployment -> signing.signPom(deployment) }
+        repository(url: 'http://maven.jianke.com/repository/jianke-android-release/') {
+            authentication(userName: "android",password: "123%abc")
+        }
+
+        pom.project {
+            name 'webengine'
+            packaging 'aar'
+            description 'none'
+            url 'http://maven.jianke.com/repository/jianke-android-release/'//仓库地址
+            groupId "com.jianke.android"
+            artifactId 'webengine'
+            version android.defaultConfig.versionName
+        }
+    }
+}
+
+dependencies {
+    //    provided fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:appcompat-v7:24.0.0@aar'
+    compile 'com.android.volley:volley:1.0.0'
+    compile 'com.github.nisrulz:easydeviceinfo:2.0.2'
+    compile 'com.google.code.gson:gson:2.2.4'
+    testCompile 'junit:junit:4.12'
+}
