@@ -58,7 +58,7 @@ public class JKAnalytics {
         @Override
         public void run() {
             sendRequest();
-            handler.postDelayed(this, 10000);
+            handler.postDelayed(this, 20000);
         }
     };
 
@@ -144,8 +144,10 @@ public class JKAnalytics {
             }
             Log.d("zjj", "params" + params);
 
-            //上传数据
-//            new HttpPostSendMessage(params,"utf-8",context).start();
+            if (params.size()!=0){
+                //上传数据
+                new HttpPostSendMessage(params,context).start();
+            }
         }
     }
 

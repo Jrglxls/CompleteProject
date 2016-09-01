@@ -3,7 +3,6 @@ package jianke.library;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
-import android.util.Log;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -60,7 +59,6 @@ public class JKAnaliseDBOperate {
         Cursor cursor = db.rawQuery("select * from JKAnaliseTable",null) ;
             while (cursor.moveToNext()){
                 maxId = cursor.getInt(cursor.getColumnIndex("id"));
-                Log.d("zjj", String.valueOf(maxId));
             }
         cursor.close();
         db.close();
