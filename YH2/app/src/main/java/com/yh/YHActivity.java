@@ -14,16 +14,16 @@ public class YHActivity extends Activity   {
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-//		 setContentView(R.layout.main);
+		//创建SurfaceView对象
 		SurfaceView v = new SurfaceView(this);
 		HolderSurfaceView.getInstance().setSurfaceView(v);
+		//设置背景图
 		v.setBackgroundResource(R.drawable.bg);
 		this.setContentView(v);
-		DrawYH yh=new DrawYH();		
+
+		DrawYH yh=new DrawYH();
 		v.setOnTouchListener(yh);
 		yh.begin();
-//		DrawText text=new DrawText();
-//		text.begin();
 	}
 	
 }

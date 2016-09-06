@@ -1,11 +1,19 @@
 [
     {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
         "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
         "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
     },
     {
         "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit_slide_left.xml",
         "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\anim\\dialog_exit_slide_left.xml"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_in.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\anim\\push_left_in.xml"
     },
     {
         "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_in.xml",
@@ -16,8 +24,12 @@
         "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\anim\\fade_in.xml"
     },
     {
-        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
-        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit_slide_up.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\anim\\dialog_exit_slide_up.xml"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit_slide_left.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\anim\\dialog_exit_slide_left.xml"
     },
     {
         "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit_fade_out.xml",
@@ -28,11 +40,35 @@
         "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\anim\\fade_out.xml"
     },
     {
-        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_out.xml",
-        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\anim\\push_left_out.xml"
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\anim\\fade_in.xml"
     },
     {
         "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit_slide_up.xml",
         "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\anim\\dialog_exit_slide_up.xml"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit_fade_out.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\anim\\dialog_exit_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_out.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_out.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
     }
 ]

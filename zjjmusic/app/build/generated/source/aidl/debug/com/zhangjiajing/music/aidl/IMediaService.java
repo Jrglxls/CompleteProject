@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\aidl\\com\\zhangjiajing\\music\\aidl\\IMediaService.aidl
+ * Original file: F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\aidl\\com\\zhangjiajing\\music\\aidl\\IMediaService.aidl
  */
 package com.zhangjiajing.music.aidl;
 public interface IMediaService extends android.os.IInterface

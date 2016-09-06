@@ -1,19 +1,31 @@
 [
     {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frame_main.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\frame_main.xml"
+    },
+    {
         "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\t9_keyboard.xml",
         "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\t9_keyboard.xml"
     },
     {
-        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sleep_time.xml",
-        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\sleep_time.xml"
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_setting.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\menu_setting.xml"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\musicbrowser_listitem.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\musicbrowser_listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_slide.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\menu_slide.xml"
     },
     {
         "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\albumbroswer.xml",
         "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\albumbroswer.xml"
     },
     {
-        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_slide.xml",
-        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\menu_slide.xml"
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_trans_layout.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\viewpager_trans_layout.xml"
     },
     {
         "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_trans_layout.xml",
@@ -24,20 +36,40 @@
         "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\frame_main1.xml"
     },
     {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\albumbrowser_listitem.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\albumbrowser_listitem.xml"
+    },
+    {
         "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\playqueue.xml",
         "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\playqueue.xml"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\t9_keyboard.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\t9_keyboard.xml"
     },
     {
         "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\artistbrowser.xml",
         "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\artistbrowser.xml"
     },
     {
-        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\musicbrowser.xml",
-        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\musicbrowser.xml"
-    },
-    {
         "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frame_menu1.xml",
         "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\frame_menu1.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sleep_time.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\sleep_time.xml"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\search.xml"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_slide.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\menu_slide.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\musicbrowser.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\musicbrowser.xml"
     },
     {
         "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frame_main.xml",
@@ -48,6 +80,14 @@
         "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\frame_favorite.xml"
     },
     {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lyric_line.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\lyric_line.xml"
+    },
+    {
         "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frame_main1_item.xml",
         "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\frame_main1_item.xml"
     },
@@ -56,8 +96,16 @@
         "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\song_playing.xml"
     },
     {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\artistbrowser.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\artistbrowser.xml"
+    },
+    {
         "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lyric_line.xml",
         "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\lyric_line.xml"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frame_menu1.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\frame_menu1.xml"
     },
     {
         "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search.xml",
@@ -68,20 +116,52 @@
         "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\folderbrowser.xml"
     },
     {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sleep_time.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\sleep_time.xml"
+    },
+    {
         "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_listitem.xml",
         "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\search_listitem.xml"
     },
     {
-        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification.xml",
-        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\notification.xml"
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\artistbrowser_listitem.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\artistbrowser_listitem.xml"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_handle.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\sliding_handle.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frame_favorite.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\frame_favorite.xml"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\folderbrowser_listitem.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\folderbrowser_listitem.xml"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\albumbroswer.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\albumbroswer.xml"
     },
     {
         "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\musicbrowser_listitem.xml",
         "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\musicbrowser_listitem.xml"
     },
     {
-        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
-        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\loading.xml"
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\notification.xml"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frame_main1.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\frame_main1.xml"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\playqueue.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\playqueue.xml"
     },
     {
         "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\artistbrowser_listitem.xml",
@@ -92,35 +172,79 @@
         "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\menu_scan_fragment.xml"
     },
     {
-        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nested_fragment.xml",
-        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\nested_fragment.xml"
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_scan_fragment.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\menu_scan_fragment.xml"
     },
     {
         "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\folderbrowser_listitem.xml",
         "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\folderbrowser_listitem.xml"
     },
     {
-        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_setting.xml",
-        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\menu_setting.xml"
-    },
-    {
-        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\albumbrowser_listitem.xml",
-        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\albumbrowser_listitem.xml"
-    },
-    {
-        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lrc_dialog.xml",
-        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\lrc_dialog.xml"
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nested_fragment.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\nested_fragment.xml"
     },
     {
         "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_handle.xml",
         "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\sliding_handle.xml"
     },
     {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\albumbrowser_listitem.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\albumbrowser_listitem.xml"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\song_playing.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\song_playing.xml"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lrc_dialog.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\lrc_dialog.xml"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frame_menu.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\frame_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lrc_dialog.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\lrc_dialog.xml"
+    },
+    {
         "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frame_menu.xml",
         "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\frame_menu.xml"
     },
     {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_listitem.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\search_listitem.xml"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frame_main1_item.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\frame_main1_item.xml"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\folderbrowser.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\folderbrowser.xml"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\musicbrowser.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\musicbrowser.xml"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_setting.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\menu_setting.xml"
+    },
+    {
         "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
         "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\notification.xml"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nested_fragment.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\layout\\nested_fragment.xml"
     }
 ]

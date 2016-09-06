@@ -1,11 +1,27 @@
 [
     {
+        "merged": "F:\\Jrglxlsgit\\YH2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bg.mid",
+        "source": "F:\\Jrglxlsgit\\YH2\\app\\src\\main\\res\\raw\\bg.mid"
+    },
+    {
         "merged": "E:\\myProject\\YH2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\b.mid",
         "source": "E:\\myProject\\YH2\\app\\src\\main\\res\\raw\\b.mid"
     },
     {
+        "merged": "F:\\Jrglxlsgit\\YH2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\syu.mp3",
+        "source": "F:\\Jrglxlsgit\\YH2\\app\\src\\main\\res\\raw\\syu.mp3"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\YH2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\dead.wav",
+        "source": "F:\\Jrglxlsgit\\YH2\\app\\src\\main\\res\\raw\\dead.wav"
+    },
+    {
         "merged": "E:\\myProject\\YH2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\dead.wav",
         "source": "E:\\myProject\\YH2\\app\\src\\main\\res\\raw\\dead.wav"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\YH2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\clock.mp3",
+        "source": "F:\\Jrglxlsgit\\YH2\\app\\src\\main\\res\\raw\\clock.mp3"
     },
     {
         "merged": "E:\\myProject\\YH2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\a.mid",
@@ -16,15 +32,27 @@
         "source": "E:\\myProject\\YH2\\app\\src\\main\\res\\raw\\firework.mp3"
     },
     {
+        "merged": "F:\\Jrglxlsgit\\YH2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\a.mid",
+        "source": "F:\\Jrglxlsgit\\YH2\\app\\src\\main\\res\\raw\\a.mid"
+    },
+    {
         "merged": "E:\\myProject\\YH2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\clock.mp3",
         "source": "E:\\myProject\\YH2\\app\\src\\main\\res\\raw\\clock.mp3"
     },
     {
-        "merged": "E:\\myProject\\YH2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\syu.mp3",
-        "source": "E:\\myProject\\YH2\\app\\src\\main\\res\\raw\\syu.mp3"
+        "merged": "F:\\Jrglxlsgit\\YH2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\b.mid",
+        "source": "F:\\Jrglxlsgit\\YH2\\app\\src\\main\\res\\raw\\b.mid"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\YH2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\firework.mp3",
+        "source": "F:\\Jrglxlsgit\\YH2\\app\\src\\main\\res\\raw\\firework.mp3"
     },
     {
         "merged": "E:\\myProject\\YH2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bg.mid",
         "source": "E:\\myProject\\YH2\\app\\src\\main\\res\\raw\\bg.mid"
+    },
+    {
+        "merged": "E:\\myProject\\YH2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\syu.mp3",
+        "source": "E:\\myProject\\YH2\\app\\src\\main\\res\\raw\\syu.mp3"
     }
 ]

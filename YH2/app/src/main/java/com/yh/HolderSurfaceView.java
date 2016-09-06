@@ -1,6 +1,7 @@
 package com.yh;
 
 import android.graphics.PixelFormat;
+import android.os.Build;
 import android.view.SurfaceView;
 
 /**
@@ -31,7 +32,9 @@ public class HolderSurfaceView {
 	 */
 	public void setSurfaceView(SurfaceView view) {
 		mSurfaceView = view;
-		mSurfaceView.setZOrderOnTop(true);
+		if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.ECLAIR) {
+			mSurfaceView.setZOrderOnTop(true);
+		}
 		mSurfaceView.getHolder().setFormat(PixelFormat.TRANSLUCENT);
 	}
 

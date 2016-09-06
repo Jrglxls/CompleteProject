@@ -28,8 +28,7 @@ public class DrawTopBase implements Runnable, Callback ,OnTouchListener{
 		mContext = mSurfaceView.getContext();
 		mSurfaceHolder = mSurfaceView.getHolder();
 		mSurfaceHolder.addCallback(this);
-		mSurfaceRect.set(new Rect(0, 0, mSurfaceView.getWidth(), mSurfaceView
-				.getHeight()));
+		mSurfaceRect.set(new Rect(0, 0, mSurfaceView.getWidth(), mSurfaceView.getHeight()));
 		set();
 	}
 
@@ -124,9 +123,6 @@ public class DrawTopBase implements Runnable, Callback ,OnTouchListener{
 
 	/**
 	 * 工作状态 noWork 没有工作 draw 在主循环中 end 正常结束 destroy 非正常结束
-	 * 
-	 * @author gary
-	 * 
 	 */
 	protected enum DrawStatus {
 		NoWork, Drawing, Ending, Destroyed

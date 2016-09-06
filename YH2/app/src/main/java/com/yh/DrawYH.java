@@ -1,13 +1,13 @@
 package com.yh;
 
-import java.util.Random;
-
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
 import android.graphics.Rect;
 import android.view.MotionEvent;
 import android.view.SurfaceHolder;
 import android.view.View;
+
+import java.util.Random;
 
 public class DrawYH extends DrawTopBase {
 	@Override
@@ -66,7 +66,6 @@ public class DrawYH extends DrawTopBase {
 		bit_c = new int[bits];
 		ru = 50;
 		rv = 50;
-		// init();
 	}
 
 	Canvas mCanvas;
@@ -80,10 +79,8 @@ public class DrawYH extends DrawTopBase {
 
 	public void init() {
 		soundPool = new GameSoundPool(mContext);
-		// Log.i("gary", mContext.toString());
 		soundPool.loadSfx(R.raw.firework, id_sound1);
 		soundPool.loadSfx(R.raw.syu, id_sound2);
-		// soundPool.loadSfx(R.raw.bg, id_bg);
 
 		m_nAppX = this.getRect().width() / 2;
 		m_nAppY = this.getRect().height() / 2;
@@ -92,7 +89,7 @@ public class DrawYH extends DrawTopBase {
 		m_centerY = m_nAppY / 2;
 		m_mouseX = m_centerX;
 		m_mouseY = m_centerY;
-		// resize(m_nAppX, m_nAppY);
+
 		pixls = m_nAppX * m_nAppY;
 		pixls2 = pixls - m_nAppX * 2;
 		pix0 = new int[pixls];
@@ -103,8 +100,6 @@ public class DrawYH extends DrawTopBase {
 		for (int i = 0; i < pixls; i++)
 			pix0[i] = 0xff000000;
 
-		// sound1 = getAudioClip(getDocumentBase(), "firework.au");
-		// sound2 = getAudioClip(getDocumentBase(), "syu.au");
 		for (int j = 0; j < bits; j++)
 			bit_f[j] = 0;
 
@@ -113,7 +108,6 @@ public class DrawYH extends DrawTopBase {
 
 	@Override
 	protected void doWork(Canvas canvas) {
-		// TODO Auto-generated method stub
 		super.doWork(canvas);
 		if (offImage != null)
 			canvas.drawBitmap(offImage, drawRect, this.getRect(), mPaint);
@@ -147,25 +141,12 @@ public class DrawYH extends DrawTopBase {
 				pix0[j] = i3 << 16 | j3 << 8 | k3 | 0x77000000;
 				//这里面0x77000000 修改这个ff就可以改变透明值，类似我改成77会显示背景图片
 				// if(pix0[j]==0x77000000)pix0[j]=0x55000000;
-				
-				
 			}
 
 			rend();
-//			this.dot();
 			mCanvas.drawBitmap(pix0, 0, m_nAppX, 0, 0, m_nAppX, m_nAppY, true,
 					mPaint);
-			
-/*			this.dot(x, y);
-			if (this.bit_sound > 1)
-			// sm.playInMediaPlayer(R.raw.syu, null);
-			soundPool.play(id_sound2, 0);
-			break;*/
 		}
-	}
-
-	public void dot() {
-		dot(rand.nextInt(m_nAppX),rand.nextInt(m_nAppY));
 	}
 
 	public void dot(int x, int y) {
@@ -197,15 +178,13 @@ public class DrawYH extends DrawTopBase {
 	}
 
 	void rend() {
-		boolean flag = false;
-		boolean flag1 = false;
 		boolean flag2 = false;
 		for (int k = 0; k < bits; k++)
 			switch (bit_f[k]) {
 			default:
 				break;
 
-			case 1: // '\001'
+			case 1:
 				bit_vy[k] += rand.nextDouble() / 50D;
 				bit_px[k] += bit_vx[k];
 				bit_py[k] += bit_vy[k];
@@ -223,7 +202,7 @@ public class DrawYH extends DrawTopBase {
 				}
 				break;
 
-			case 2: // '\002'
+			case 2:
 				bit_sy[k] -= 5;
 				if ((double) bit_sy[k] <= bit_py[k]) {
 					bit_f[k] = 1;
@@ -238,7 +217,6 @@ public class DrawYH extends DrawTopBase {
 			}
 
 		if (flag2 && bit_sound > 0)
-			// sm.playInMediaPlayer(R.raw.firework, null);
 			soundPool.play(id_sound1, 0);
 	}
 
@@ -263,13 +241,9 @@ public class DrawYH extends DrawTopBase {
 	private int m_mouseY;
 	private int m_sleepTime;
 	private boolean isError;
-	private boolean m_isPaintFinished;
-	boolean isRunning;
 	boolean isInitialized;
-	Thread runner;
 	int pix0[];
 	Bitmap offImage;
-	// Image dbImg;
 	int pixls;
 	int pixls2;
 	Random rand;
@@ -291,7 +265,6 @@ public class DrawYH extends DrawTopBase {
 
 	@Override
 	public boolean onTouch(View v, MotionEvent event) {
-		// return super.onTouch(v, event);
 		int x = (int) event.getX();
 		int y = (int) event.getY();
 		x = x / 2;
@@ -310,9 +283,7 @@ public class DrawYH extends DrawTopBase {
 			break;
 		case MotionEvent.ACTION_UP:
 			this.dot(x, y);
-//			this.dot();
 			if (this.bit_sound > 1)
-				// sm.playInMediaPlayer(R.raw.syu, null);
 				soundPool.play(id_sound2, 0);
 			break;
 		}

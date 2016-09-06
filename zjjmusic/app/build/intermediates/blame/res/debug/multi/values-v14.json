@@ -24,5 +24,31 @@
                 }
             }
         ]
+    },
+    {
+        "outputFile": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 12,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 3,
+                        "endColumn": 12,
+                        "endOffset": 105
+                    }
+                }
+            }
+        ]
     }
 ]

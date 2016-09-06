@@ -3,7 +3,10 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/yh/DrawText.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/yh/DrawTopBase.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yh/DrawYH.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yh/GameSoundMedia.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/yh/GameSoundPool.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yh/HolderSurfaceView.java" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

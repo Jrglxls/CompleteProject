@@ -1,5 +1,31 @@
 [
     {
+        "outputFile": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 12,
+                    "endOffset": 129
+                },
+                "from": {
+                    "file": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endLine": 2,
+                        "endColumn": 12,
+                        "endOffset": 90
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
         "map": [
             {

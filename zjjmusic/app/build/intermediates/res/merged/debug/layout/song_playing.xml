@@ -194,8 +194,8 @@
             android:layout_height="match_parent"
             android:gravity="center"
             android:padding="15dip"
-            android:text="没有歌词,点击手动下载"
-            android:textColor="@color/white"
+            android:text="没有歌词,请点击下载"
+            android:textColor="@color/holo_orange_dark"
             android:textIsSelectable="false"
             android:textSize="18sp"
             android:visibility="gone" />

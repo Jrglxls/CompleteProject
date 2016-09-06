@@ -1,10 +1,10 @@
 package com.yh;
 
-import java.util.HashMap;
-
 import android.content.Context;
 import android.media.AudioManager;
 import android.media.SoundPool;
+
+import java.util.HashMap;
 
 /**
  * 多音效
@@ -28,10 +28,10 @@ public class GameSoundPool {
 	// 定义HASH表
 	private HashMap<Integer, Integer> soundPoolMap;
 
-	/***************************************************************
+	/**
 	 * Function:initSounds(); Parameters:null Returns:None. Description:初始化声音系统
 	 * Notes:none.
-	 ***************************************************************/
+	 */
 	public void initSounds() {
 		// 初始化soundPool对象,第一个参数是允许有多少个声音流同时播放,第2个参数是声音类型,第三个参数是声音的品质
 		soundPool = new SoundPool(100, AudioManager.STREAM_MUSIC, 100);
@@ -45,19 +45,26 @@ public class GameSoundPool {
 		streamVolume = mgr.getStreamVolume(AudioManager.STREAM_MUSIC);
 	}
 
-	/***************************************************************
-	 * Function:loadSfx(); Parameters:null Returns:None. Description:加载音效资源
+	/**
+	 * Function:loadSfx();
+	 * Parameters:null
+	 * Returns:None.
+	 * Description:加载音效资源
 	 * Notes:none.
-	 ***************************************************************/
+	 */
 	public void loadSfx(int raw, int ID) {
 		// 把资源中的音效加载到指定的ID(播放的时候就对应到这个ID播放就行了)
 		soundPoolMap.put(ID, soundPool.load(mContext, raw, ID));
 	}
 
-	/***************************************************************
-	 * Function:play(); Parameters:sound:要播放的音效的ID,loop:循环次数 Returns:None.
+	/**
+	 * Function:play();
+	 * Parameters:
+	 * sound:要播放的音效的ID,
+	 * loop:循环次数
+	 * Returns:None.
 	 * Description:播放声音 Notes:none.
-	 ***************************************************************/
+	 */
 	public void play(int sound, int uLoop) {
 		soundPool.play(soundPoolMap.get(sound), streamVolume, streamVolume, 1,
 				uLoop, 1f);

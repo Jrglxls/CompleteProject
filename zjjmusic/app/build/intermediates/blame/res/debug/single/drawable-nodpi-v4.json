@@ -4,19 +4,39 @@
         "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable-nodpi\\list_selector.xml"
     },
     {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\dialog_img_background.jpg",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\drawable-nodpi\\dialog_img_background.jpg"
+    },
+    {
         "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\sliding_menu_line.png",
         "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable-nodpi\\sliding_menu_line.png"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\dialog_frm_background.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\drawable-nodpi\\dialog_frm_background.xml"
     },
     {
         "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\dialog_frm_background.xml",
         "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable-nodpi\\dialog_frm_background.xml"
     },
     {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\list_selector.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\drawable-nodpi\\list_selector.xml"
+    },
+    {
         "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\dialog_img_background.jpg",
         "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable-nodpi\\dialog_img_background.jpg"
     },
     {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\sliding_menu_line.png",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\drawable-nodpi\\sliding_menu_line.png"
+    },
+    {
         "merged": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\top_shadow.xml",
         "source": "C:\\Users\\zhangjiajing\\Desktop\\zjjmusic\\app\\src\\main\\res\\drawable-nodpi\\top_shadow.xml"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\zjjmusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\top_shadow.xml",
+        "source": "F:\\Jrglxlsgit\\zjjmusic\\app\\src\\main\\res\\drawable-nodpi\\top_shadow.xml"
     }
 ]

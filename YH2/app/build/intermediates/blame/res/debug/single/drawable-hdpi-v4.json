@@ -2,5 +2,9 @@
     {
         "merged": "E:\\myProject\\YH2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
         "source": "E:\\myProject\\YH2\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Jrglxlsgit\\YH2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\Jrglxlsgit\\YH2\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     }
 ]
