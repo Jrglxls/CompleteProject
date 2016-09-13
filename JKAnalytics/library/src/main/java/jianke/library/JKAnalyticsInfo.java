@@ -5,9 +5,6 @@ package jianke.library;
  *
  */
 public class JKAnalyticsInfo {
-    /**
-     * event事件获取的参数
-     */
     private String Appkey;//用户的唯一标示
     private String UserId;//用户的唯一标示
     private String UserFlag;//用户是否登录

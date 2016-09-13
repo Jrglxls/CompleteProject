@@ -11,9 +11,6 @@ import android.database.sqlite.SQLiteOpenHelper;
 public class JKAnaliseHelper extends SQLiteOpenHelper {
     private static JKAnaliseHelper instance;
 
-    /**
-     * 构造方法
-     */
     public JKAnaliseHelper(Context context) {
         super(context, "JKAnalise", null, 1);
     }
