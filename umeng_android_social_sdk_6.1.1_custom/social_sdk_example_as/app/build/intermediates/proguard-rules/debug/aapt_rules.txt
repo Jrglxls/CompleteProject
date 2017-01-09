@@ -1,0 +1,86 @@
+# view AndroidManifest.xml #generated:173
+-keep class com.kakao.auth.authorization.authcode.KakaoWebViewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:154
+-keep class com.renn.rennsdk.oauth.OAuthActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:113
+-keep class com.sina.weibo.sdk.component.WeiboSdkBrowser { <init>(...); }
+
+# view AndroidManifest.xml #generated:263
+-keep class com.sina.weibo.sdk.net.DownloadService { <init>(...); }
+
+# view AndroidManifest.xml #generated:225
+-keep class com.umeng.facebook.FacebookActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:231
+-keep class com.umeng.facebook.FacebookContentProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:195
+-keep class com.umeng.qq.tencent.AssistActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:182
+-keep class com.umeng.qq.tencent.AuthActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:126
+-keep class com.umeng.socialize.editorpage.ShareActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:247
+-keep class com.umeng.socialize.handler.TwitterWebActivity { <init>(...); }
+
+# view res/layout/socialize_share_menu_item.xml #generated:8
+-keep class com.umeng.socialize.shareboard.SocializeImageView { <init>(...); }
+
+# view AndroidManifest.xml #generated:31
+-keep class com.umeng.soexample.App { <init>(...); }
+
+# view AndroidManifest.xml #generated:57
+-keep class com.umeng.soexample.AuthActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:71
+-keep class com.umeng.soexample.CheckActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:64
+-keep class com.umeng.soexample.GetInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:38
+-keep class com.umeng.soexample.HomeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:85
+-keep class com.umeng.soexample.InfoDetailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:50
+-keep class com.umeng.soexample.ShareActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:92
+-keep class com.umeng.soexample.ShareDetailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:78
+-keep class com.umeng.soexample.ShareMenuActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:102
+-keep class com.umeng.soexample.WBShareActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:146
+-keep class com.umeng.soexample.apshare.ShareEntryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:138
+-keep class com.umeng.soexample.ddshare.DDShareActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:131
+-keep class com.umeng.soexample.wxapi.WXEntryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:120
+-keep class com.umeng.soexample.yxapi.YXEntryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:159
+-keep class jp.line.android.sdk.activity.LineAuthCompleteActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:175
+-keep class jp.line.android.sdk.activity.WebLoginActivity { <init>(...); }
+
+# onClick res/layout/umeng_socialize_oauth_dialog.xml #generated:23
+# onClick res/layout/umeng_socialize_share.xml #generated:24
+# onClick sw550dp-large-v13\res/layout-sw550dp-large-v13/umeng_socialize_oauth_dialog.xml #generated:21
+-keepclassmembers class * { *** onCancel(...); }
+

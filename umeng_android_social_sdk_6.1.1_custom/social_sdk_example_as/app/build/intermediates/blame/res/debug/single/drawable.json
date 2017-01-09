@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shouquan.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\shouquan.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumb.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\thumb.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_whatsapp.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_whatsapp.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_video.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_share_video.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_close.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\com_facebook_close.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng.jpg",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_btn_bg.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_evernote.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_evernote.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_edit_bg.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_edit_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin_circle.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_yixin_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_twitter.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\datu.jpg",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\datu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pinterest.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_pinterest.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_google.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_google.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_view_bg.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\edit_view_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_back_icon.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_gmail.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_gmail.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_menu_default.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_menu_default.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_ding.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_ding.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_arrow.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_qq.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_more.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_more.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_share_solid_icon.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_share_solid_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dadadatu.jpg",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\dadadatu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnbg.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\btnbg.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_flickr.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_flickr.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_file_copy.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_file_copy.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huoqu.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\huoqu.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_back_icon.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_foursquare.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_foursquare.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_line.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_line.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_sina.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pocket.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_pocket.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_fav.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_fav.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_laiwang_dynamic.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_laiwang_dynamic.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_laiwang.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_laiwang.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_ynote.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_ynote.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_linkedin.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_linkedin.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_web.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_share_web.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_douban.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_douban.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info_icon_1.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\info_icon_1.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_qzone.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_music.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_share_music.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_instagram.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_instagram.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_renren.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_renren.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_alipay.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_alipay.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_delete.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editbg.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\editbg.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_kakao.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_kakao.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gengxin.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\gengxin.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aa.jpg",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\aa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sms.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_sms.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_tx.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_app_icon.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_yixin.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fenxiang.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\fenxiang.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tumblr.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\umeng_socialize_tumblr.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zijian.png",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\drawable\\zijian.png"
+    }
+]

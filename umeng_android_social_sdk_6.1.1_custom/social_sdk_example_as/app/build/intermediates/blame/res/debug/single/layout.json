@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_shareadapter.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\layout\\app_shareadapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_share.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\layout\\umeng_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\layout\\share_detail.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\layout\\share_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_activity_kakao_webview.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\layout\\umeng_socialize_activity_kakao_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_menu.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\layout\\umeng_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_authadapter.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\layout\\app_authadapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_share.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\layout\\umeng_socialize_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_auth.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\layout\\umeng_auth.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_check.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\layout\\umeng_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\layout\\titlebar.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\layout\\titlebar.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\layout\\socialize_share_menu_item.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\layout\\socialize_share_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_styleadapter.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\layout\\app_styleadapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_oauth_dialog.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\layout\\umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\build\\intermediates\\res\\merged\\debug\\layout\\infodetail.xml",
+        "source": "C:\\Users\\zhangjiajing\\Desktop\\umeng_android_social_sdk_6.1.1_custom\\social_sdk_example_as\\app\\src\\main\\res\\layout\\infodetail.xml"
+    }
+]
